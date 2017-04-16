@@ -1,4 +1,6 @@
 #!/bin/bash
+set -e
+
 . /opt/bitnami/base/functions
 . /opt/bitnami/base/helpers
 
